@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c71391815618a211179c7100087d5711204c61b7">
+        <dex dex="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_85b88640afe047f043a5edb84fcde0c12d6f4024/classes.dex" />
+    </item>
+    <item
+        jar="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_7d0f8749d93699e6e47c205573c2f2472f024051/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.1.2/baseLibrary-2.1.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="357d1307d303c4771283372a53fd7c45e0c19c89">
+        <dex dex="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.1.2_e874a79ced6bda04e46ee4b599aee642f2b026c5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_c199dce6e9ab8571a42e58d2c21820f99467d30d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_1395345f8b9029e2613e9e82d65449c3668e6be9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="823299989caf10a400ef67ca2d34c8949adad142">
+        <dex dex="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2445cd452a69c9160a75f2c9c40e92258a1b2467/classes.dex" />
+    </item>
+    <item
+        jar="/Users/herikiswanto/Downloads/gradle-2.12/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_8bef3256cccf6552cf1490d1170725c0247dbf23/classes.dex" />
+    </item>
+    <item
+        jar="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_51f8944d4b32cf4b7f4bb0df84bf72938668a26d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/exploded-aar/com.android.databinding/library/1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d985cdf99de8a63824b52d8a8efc309f9e5fbf01">
+        <dex dex="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-library-1.1_a46c6891585ee8585aefc6503957d94f7959e8a6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_b25397b50341f3df9db164691806aa6a27321468/classes.dex" />
+    </item>
+    <item
+        jar="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3cae403175958af8baa00bed0bd6e04187d69415">
+        <dex dex="/Users/herikiswanto/Documents/Android-Workspace/Gookkis/NofindViewById/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.1_0371e61b0ee0899772369df4516056593721f93e/classes.dex" />
+    </item>
+
+</items>
